@@ -1,0 +1,2 @@
+# practica.mag
+practica.mag
