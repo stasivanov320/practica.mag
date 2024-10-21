@@ -1,0 +1,29 @@
+[
+    {
+        "nume": "Test",
+        "genul": "Masculin",
+        "localitate": "Balti",
+        "email": "test@test.test",
+        "parola": "$2y$10$iiBo1PRwyew.2MyibZpLnu9vw5YJp99kUxhFJYXkILN3YwYDbFKNi",
+        "abonat": "Da",
+        "id": "66fbaa27b20b5"
+    },
+    {
+        "nume": "Jhon Doe",
+        "genul": "Masculin",
+        "localitate": "Chisinau",
+        "email": "doe@doe.net",
+        "parola": "$2y$10$G9O6LuyhomNzfOWIZY0jSuLPTt2XRopGYM9SI4eAmso2UyyWLwBnO",
+        "abonat": "Da",
+        "id": "66fcf147b483e"
+    },
+    {
+        "nume": "Dada",
+        "genul": "Masculin",
+        "localitate": "Chisinau",
+        "email": "dadada@gmail.com",
+        "parola": "$2y$10$H2Kb6SsRjqIl\/yoeZsdXXOB6yqjsB\/rdAVbRcmTicnPuLP5PvR53a",
+        "abonat": "Nu",
+        "id": "66fcf5fda4520"
+    }
+]
